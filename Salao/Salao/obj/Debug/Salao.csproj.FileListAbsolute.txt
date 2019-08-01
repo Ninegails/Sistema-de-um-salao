@@ -1,0 +1,82 @@
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\bin\Debug\Salao.exe.config
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\bin\Debug\Salao.exe
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\bin\Debug\Salao.pdb
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.exe
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.pdb
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.Login.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.Cadastro.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Salao\Salao\obj\Debug\Salao.Consulta.resources
+F:\Visual Studio\Salao\Salao\bin\Debug\Salao.exe.config
+F:\Visual Studio\Salao\Salao\bin\Debug\Salao.exe
+F:\Visual Studio\Salao\Salao\bin\Debug\Salao.pdb
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.Cadastro.resources
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.Consulta.resources
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.Login.resources
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.Properties.Resources.resources
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.csproj.GenerateResource.cache
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.exe
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.pdb
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlteracaoEmail.resources
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlterarInformacoes.resources
+D:\Visual Studio\Salao\Salao\bin\Debug\Salao.exe.config
+D:\Visual Studio\Salao\Salao\bin\Debug\Salao.exe
+D:\Visual Studio\Salao\Salao\bin\Debug\Salao.pdb
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.csprojAssemblyReference.cache
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlteracaoEmail.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlterarInformacoes.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlterarSenha.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlterarTelefone.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.Cadastro.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.Consulta.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.Login.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.Properties.Resources.resources
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.csproj.GenerateResource.cache
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.exe
+D:\Visual Studio\Salao\Salao\obj\Debug\Salao.pdb
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlterarSenha.resources
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.AlterarTelefone.resources
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.csprojAssemblyReference.cache
+F:\Visual Studio\Salao\Salao\obj\Debug\Salao.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Salao\Salao\bin\Debug\Salao.exe.config
+C:\Users\Guilherme\Desktop\Salao\Salao\bin\Debug\Salao.exe
+C:\Users\Guilherme\Desktop\Salao\Salao\bin\Debug\Salao.pdb
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.AlteracaoEmail.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.AlterarInformacoes.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.AlterarSenha.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.AlterarTelefone.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.Cadastro.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.CadastroADM.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.Consulta.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.Login.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.exe
+C:\Users\Guilherme\Desktop\Salao\Salao\obj\Debug\Salao.pdb
+E:\Salao\Salao\bin\Debug\Salao.exe.config
+E:\Salao\Salao\obj\Debug\Salao.exe
+E:\Salao\Salao\obj\Debug\Salao.pdb
+E:\Salao\Salao\bin\Debug\Salao.exe
+E:\Salao\Salao\bin\Debug\Salao.pdb
+E:\Salao\Salao\obj\Debug\Salao.AlteracaoEmail.resources
+E:\Salao\Salao\obj\Debug\Salao.AlterarInformacoes.resources
+E:\Salao\Salao\obj\Debug\Salao.AlterarSenha.resources
+E:\Salao\Salao\obj\Debug\Salao.AlterarTelefone.resources
+E:\Salao\Salao\obj\Debug\Salao.Cadastro.resources
+E:\Salao\Salao\obj\Debug\Salao.CadastroADM.resources
+E:\Salao\Salao\obj\Debug\Salao.Consulta.resources
+E:\Salao\Salao\obj\Debug\Salao.Login.resources
+E:\Salao\Salao\obj\Debug\Salao.Properties.Resources.resources
+E:\Salao\Salao\obj\Debug\Salao.csproj.GenerateResource.Cache
+E:\Salao\Salao\obj\Debug\Salao.Area_ADM.resources
+E:\Salao\Salao\obj\Debug\Salao.RecuperarSenha.resources
+E:\Salao\Salao\obj\Debug\Salao.Alterar_Horarios.resources
+E:\Salao\Salao\obj\Debug\Salao.ExcluirHorario.resources
+E:\Salao\Salao\obj\Debug\Salao.Login_de_ADM.resources
+E:\Salao\Salao\obj\Debug\Salao.csprojResolveAssemblyReference.cache
